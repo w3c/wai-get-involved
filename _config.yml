@@ -15,7 +15,6 @@ url: "https://w3c.github.io/wai-get-involved" # the base hostname & protocol for
 twitter:
   username: w3c_wai
 author: w3c_wai
-exclude:
   - "_external"
   - "Gemfile"
   - "Gemfile.lock"
@@ -33,7 +32,6 @@ repository: w3c/wai-get-involved
 
 ytkey: AIzaSyCiZ9uToWu9jb7BTx47NtzCvmGGXKXp8nI
 
-theme: wai-website-theme
 remote_theme: w3c/wai-website-theme
 
 collections:
@@ -46,3 +44,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-include-cache
+  - jekyll-remote-theme
