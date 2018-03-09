@@ -1,6 +1,7 @@
 ---
 title: Participating in WAI
 layout: default
+permalink: /get-involved/
 ---
 
 {::nomarkdown}
