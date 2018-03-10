@@ -123,26 +123,26 @@ WAI](Sponsor) for more information on WAI sponsorship.
 ### Implementing Guidelines
 
 -   Use the [Web Content Accessibility Guidelines
-    (WCAG)](/WAI/intro/wcag.php) documents to help make your website
+    (WCAG)]({{ "/standards-guidelines/wcag/" | relative_url }}) documents to help make your website
     accessible.
 -   If you develop authoring tools—any software or service that people
     use to create or modify Web content, including content management
     systems—implement the [Authoring Tool Accessibility Guidelines
-    (ATAG)](/WAI/intro/atag.php).
+    (ATAG)]({{ "/standards-guidelines/atag/" | relative_url }}).
 -   If you develop Web browsers, media players, assistive technologies,
     or other user agents—implement the [User Agent Accessibility
-    Guidelines (UAAG)](/WAI/intro/uaag.php).
+    Guidelines (UAAG)]({{ "/standards-guidelines/uaag/" | relative_url }}).
 
 ### Encouraging Accessibility
 
 -   [Encourage authoring tools](/WAI/impl/software) to meet
-    [ATAG](http://www.w3.org/WAI/intro/atag.php) by directly contacting
+    [ATAG]({{ "/standards-guidelines/atag/" | relative_url }}) by directly contacting
     vendors and requesting increased accessibility support in future
     versions, and by purchasing tools that provide the best support for
     accessibility.
 -   Encourage Web browsers, media players, assistive technologies, and
     other user agents to meet
-    [UAAG](http://www.w3.org/WAI/intro/uaag.php).
+    [UAAG]({{ "/standards-guidelines/uaag/" | relative_url }}).
 -   Encourage organizations to [adopt an accessibility
     policy](/WAI/impl/pol) for their organization that defines their
     commitment to Web accessibility.
